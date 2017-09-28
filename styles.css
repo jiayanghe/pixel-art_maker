@@ -41,8 +41,22 @@ input[type=number] {
 
 .grid {
 	margin:0;
+    margin-bottom: -3px;
 	padding:0;
 	border:none;
 	outline:1px solid #000;
 	display:inline-block;
 }
+
+#pixel_canvas {
+    border: none;
+}
+
+
+
+
+
+
+
+
+
